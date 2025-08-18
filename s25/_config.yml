@@ -31,17 +31,17 @@ permalink: pretty
 # Navigation
 nav:
   - title: Announcements
-    url: announcements
+    url: /announcements/
   - title: Calendar (Honein)
-    url: calendar-honein
+    url: /calendar-honein/
   - title: Calendar (Bakarji)
-    url: calendar-bakarji
+    url: /calendar-bakarji/
   - title: Resources
-    url: resources
+    url: /resources/
   - title: Schedule
-    url: schedule
+    url: /schedule/
   - title: Staff
-    url: staff
+    url: /staff/
 
 aux_links:
   Theresa Honein:
