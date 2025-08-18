@@ -5,7 +5,7 @@ nav_exclude: true
 permalink: /:path/
 seo:
   type: Course
-  name: MECH230 Dynamics
+  name: ME104 Dynamics
 ---
 
 # Sections
