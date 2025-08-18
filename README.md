@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 ---
 layout: home
 title: MECH230 Dynamics
@@ -37,9 +36,3 @@ The section number links to course syllabus. Please read your section's syllabus
 | Fall 2025 | Exam | Solution | Exam | Solution | Final | Final Formula Sheet | Solution |
 
 
-=======
-# MECH230.github.io
-
-- [Spring 2025](https://mech230.github.io/S25/)
-- [Fall 2025](https://mech230.github.io/F25/)
->>>>>>> 9c33750facb5891b52c600fcf1a25e7cfb42bb0e
