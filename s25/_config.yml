@@ -17,7 +17,7 @@ title: MECH230
 tagline: Undergraduate Dynamics Course Website
 description: American University of Beirut, Lebanon
 author: Theresa Honein
-baseurl: '/s25' # the subpath of your site, e.g. /blog
+baseurl: '' # the subpath of your site, e.g. /blog
 url: 'https://mech230.github.io' # the base hostname & protocol for your site, e.g. http://example.com
 exclude: ["Gemfile", "Gemfile.lock", "LICENSE"]
 
@@ -31,17 +31,17 @@ permalink: pretty
 # Navigation
 nav:
   - title: Announcements
-    url: {{ site.baseurl }}/announcements
+    url: announcements
   - title: Calendar (Honein)
-    url: {{ site.baseurl }}/calendar-honein
+    url: calendar-honein
   - title: Calendar (Bakarji)
-    url: {{ site.baseurl }}/calendar-bakarji
+    url: calendar-bakarji
   - title: Resources
-    url: {{ site.baseurl }}/resources
+    url: resources
   - title: Schedule
-    url: {{ site.baseurl }}/schedule
+    url: schedule
   - title: Staff
-    url: {{ site.baseurl }}/staff
+    url: staff
 
 aux_links:
   Theresa Honein:
